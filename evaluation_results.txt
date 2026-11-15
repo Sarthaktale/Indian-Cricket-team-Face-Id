@@ -1,0 +1,56 @@
+Validation Accuracy: 60.23%
+
+MOST CONFUSED PLAYER PAIRS
+==========================
+kuldeep_yadav -> yuzvendra_chahal: 2 images
+yuzvendra_chahal -> shikhar_dhawan: 1 images
+virat_kohli -> yuzvendra_chahal: 1 images
+virat_kohli -> vijay_shankar: 1 images
+virat_kohli -> shikhar_dhawan: 1 images
+virat_kohli -> kedar_jadhav: 1 images
+vijay_shankar -> rohit_sharma: 1 images
+vijay_shankar -> kedar_jadhav: 1 images
+vijay_shankar -> hardik_pandya: 1 images
+vijay_shankar -> bhuvneshwar_kumar: 1 images
+shikhar_dhawan -> virat_kohli: 1 images
+shikhar_dhawan -> hardik_pandya: 1 images
+rohit_sharma -> ravindra_jadeja: 1 images
+rohit_sharma -> ms_dhoni: 1 images
+ravindra_jadeja -> virat_kohli: 1 images
+ms_dhoni -> yuzvendra_chahal: 1 images
+ms_dhoni -> dinesh_karthik: 1 images
+ms_dhoni -> bhuvneshwar_kumar: 1 images
+mohammed_shami -> yuzvendra_chahal: 1 images
+mohammed_shami -> ravindra_jadeja: 1 images
+mohammed_shami -> dinesh_karthik: 1 images
+kuldeep_yadav -> vijay_shankar: 1 images
+kuldeep_yadav -> jasprit_bumrah: 1 images
+kedar_jadhav -> k._l._rahul: 1 images
+kedar_jadhav -> hardik_pandya: 1 images
+k._l._rahul -> virat_kohli: 1 images
+k._l._rahul -> jasprit_bumrah: 1 images
+k._l._rahul -> hardik_pandya: 1 images
+jasprit_bumrah -> kuldeep_yadav: 1 images
+jasprit_bumrah -> hardik_pandya: 1 images
+dinesh_karthik -> jasprit_bumrah: 1 images
+bhuvneshwar_kumar -> vijay_shankar: 1 images
+bhuvneshwar_kumar -> rohit_sharma: 1 images
+bhuvneshwar_kumar -> ravindra_jadeja: 1 images
+
+PER-PLAYER ACCURACY
+===================
+bhuvneshwar_kumar: 50.00% (3/6)
+dinesh_karthik: 75.00% (3/4)
+hardik_pandya: 100.00% (5/5)
+jasprit_bumrah: 33.33% (1/3)
+k._l._rahul: 50.00% (3/6)
+kedar_jadhav: 66.67% (4/6)
+kuldeep_yadav: 33.33% (2/6)
+mohammed_shami: 25.00% (1/4)
+ms_dhoni: 62.50% (5/8)
+ravindra_jadeja: 87.50% (7/8)
+rohit_sharma: 75.00% (6/8)
+shikhar_dhawan: 66.67% (4/6)
+vijay_shankar: 20.00% (1/5)
+virat_kohli: 55.56% (5/9)
+yuzvendra_chahal: 75.00% (3/4)
