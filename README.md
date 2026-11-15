@@ -1,6 +1,6 @@
 # Indian Cricket Team Member Face Identification
 
-An AI-based computer vision project replicated from [Sarthaktale/Indian-Cricket-team-Face-Id](https://github.com/harshinimadasu17-design/Indian-Cricket-Team-Face-Identification/tree/main) that identifies Indian cricket players from facial images using OpenCV Haar Cascade face detection, MobileNetV2 transfer learning (with a built-in OpenCV/NumPy multi-descriptor facial embedding fallback for zero-dependency execution), and a Streamlit web interface.
+An AI-based computer vision project replicated from [Sarthaktale/Indian-Cricket-team-Face-Id](https://github.com/Sarthaktale/Indian-Cricket-team-Face-Id) that identifies Indian cricket players from facial images using OpenCV Haar Cascade face detection, MobileNetV2 transfer learning (with a built-in OpenCV/NumPy multi-descriptor facial embedding fallback for zero-dependency execution), and a Streamlit web interface.
 
 ## Problem Statement
 Develop a machine learning / computer vision system that identifies an Indian cricket team member from an image based on facial features. The system detects and crops faces using OpenCV's Haar Cascade classifier, preprocesses images to `224 × 224`, trains a 15-class classifier on the provided dataset (`archive (2).zip`), and classifies new input images with top-3 confidence scores.
